@@ -1,0 +1,3 @@
+For 10bar_truss benchmark problems please refer to Truss_10bar.mlx live script
+For 25bar_truss benchmark problems please refer to Truss_25bar.mlx live script
+For 72bar_truss benchmark problem  please refer to Truss_72bar.mlx live script
